@@ -15,7 +15,15 @@ for(int i=a;i<=b;i++){
 		}
 	break;
 	}
-}
+	else{
+		
+		for(int j=a+1;j<=b;j=j+2){
+			System.out.println(j);
+
+	}
+		break;
+	}
 	}
 
+	}
 }
