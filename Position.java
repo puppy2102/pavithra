@@ -16,7 +16,7 @@ for(int i=0;i<50;i++){
 System.out.println("position");
 Arrays.sort(x);
 
-		System.out.println(x[b]);
+		System.out.println(x.length-b);
 }
 
 }
